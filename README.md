@@ -92,10 +92,9 @@ Whether you're a beginner starting your fitness journey or an experienced athlet
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn package manager
+- Flask
 - Git version control
-- MongoDB database
+- SQL-Lite database
 
 ### Installation
 
@@ -140,17 +139,15 @@ http://localhost:5000
 - React Router - Client-side routing
 
 ### Backend
-- Node.js - JavaScript runtime environment
-- Express.js - Web application framework
-- MongoDB - NoSQL database
+- Flask
+- SQL-Lite
 
 ### Authentication & Security
 - JSON Web Tokens (JWT) - Secure authentication
-- Bcrypt - Password hashing and encryption
 
 ### Additional Tools
 - Axios - HTTP client for API requests
-- Mongoose - MongoDB object modeling
+- DB(browser) SQL-lite
 
 ---
 
