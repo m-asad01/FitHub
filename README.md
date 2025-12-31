@@ -143,7 +143,7 @@ http://localhost:5000
 - SQL-Lite
 
 ### Authentication & Security
-- JSON Web Tokens (JWT) - Secure authentication
+- Secure authentication
 
 ### Additional Tools
 - Axios - HTTP client for API requests
@@ -262,7 +262,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 For questions, issues, or feature requests:
 - Open an issue on GitHub
-- Email: support@fithub.com
-- Join our community discussions
+- Email: bsef24a034@pucit.edu.pk
 
 ---
