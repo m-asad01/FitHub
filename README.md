@@ -146,7 +146,7 @@ http://localhost:5000
 - Secure authentication
 
 ### Additional Tools
-- Axios - HTTP client for API requests
+- Vs Code
 - DB(browser) SQL-lite
 
 ---
