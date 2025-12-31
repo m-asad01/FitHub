@@ -236,12 +236,6 @@ Please ensure your code follows the existing code style and includes appropriate
 
 ---
 
-## License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
----
-
 ## Author
 
 **Your Name**
